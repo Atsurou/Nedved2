@@ -1,0 +1,78 @@
+h1 {
+  background-color: aquamarine;
+  height: auto;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+h2 {
+  color: gray;
+  border-bottom: 5px solid black;
+  width: 250px;
+}
+
+span {
+  color: red;
+}
+
+iframe {
+  height: 250px;
+  padding-top: 100px;
+}
+
+.status1 li {
+  list-style: none;
+  padding-bottom: 10px;
+}
+
+.status2 li {
+  list-style: none;
+  padding-bottom: 10px;
+}
+
+.status3 li {
+  list-style: none;
+  padding-bottom: 10px;
+}
+
+.status1 {
+  float: left;
+  border-right: 2px solid black;
+  padding-right: 10px;
+  border-left: 2px solid black;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+.status2 {
+  float: left;
+  border-right: 2px solid black;
+  padding-right: 30px;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+.status3 {
+  float: left;
+  padding-right: 30px;
+  border-right: 2px solid black;
+  margin-right: 30px;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+.status1 span {
+  border-bottom: 2px solid black;
+}
+
+.status2 span {
+  border-bottom: 2px solid black;
+}
+
+.status3 span {
+  border-bottom: 2px solid black;
+}
+
+.footer h1 {
+  margin-top: 1100px;
+}
